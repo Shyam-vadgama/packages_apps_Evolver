@@ -19,6 +19,14 @@
     <com.android.settingslib.widget.TopIntroPreference
         android:title="@string/about_info" />
 
+    <!-- Maintainer -->
+    <Preference
+        android:key="about_maintainer"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about_maintainer_title"
+        android:summary="@string/about_maintainer_value"
+        android:selectable="false" />
+
     <!-- Changelog -->
     <Preference
         android:key="about_changelog"

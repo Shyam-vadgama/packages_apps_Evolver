@@ -1439,6 +1439,8 @@
 
     <!-- About -->
     <string name="about_info">Evolution X is a custom Android ROM that aims to replicate the Google Pixel experience with added customization. Based on the LineageOS Project.</string>
+    <string name="about_maintainer_title">Maintainer</string>
+    <string name="about_maintainer_value" translatable="false">Shyam-vadgama</string>
     <string name="about_website_title">Website</string>
     <string name="about_website_summary">Visit our site for updates</string>
     <string name="about_x_title" translatable="false">X</string>
